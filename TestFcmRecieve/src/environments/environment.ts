@@ -5,19 +5,19 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyCsFeMUlnNGOT7TuHQx4bxUzsIrPyIEH7A",
+    apiKey: "",
 
-  authDomain: "facility-management-b729d.firebaseapp.com",
+  authDomain: "",
 
-  projectId: "facility-management-b729d",
+  projectId: "",
 
-  storageBucket: "facility-management-b729d.appspot.com",
+  storageBucket: "",
 
-  messagingSenderId: "182480860179",
+  messagingSenderId: "",
 
-  appId: "1:182480860179:web:71e495db787b6221457be6",
+  appId: "",
 
-  measurementId: "G-8BLDJ70F71"
+  measurementId: ""
 
     }
 };
